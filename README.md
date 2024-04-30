@@ -1,6 +1,6 @@
 # Proxmox-Terraform
 
-# Project Description
+# Description
 
 ## Overview:
 This project utilizes Terraform to automate the deployment of virtual machines (VMs) within a Proxmox environment. It streamlines the process of provisioning VMs, enhancing efficiency and reproducibility in managing infrastructure.
